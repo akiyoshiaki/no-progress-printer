@@ -1,0 +1,20 @@
+{
+  "name": "no-progress-printer",
+  "main": "./lib/no-progress-printer",
+  "version": "0.0.0",
+  "description": "'No Progress'",
+  "keywords": [
+    "No Progress"
+  ],
+  "activationCommands": {
+    "atom-workspace": "no-progress-printer:print"
+  },
+  "repository": "https://github.com/atom/no-progress-printer",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+    "figlet": "1.0.8"
+  }
+}
