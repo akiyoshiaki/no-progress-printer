@@ -4,4 +4,4 @@
 
 `ctrl-alt-n`
 
-![A screenshot of your package](https://github.com/akiyoshiaki/no-progress-printer/blob/master/noprogress.gif)
+![screenshot](https://github.com/akiyoshiaki/no-progress-printer/noprogress.gif)
