@@ -9,7 +9,7 @@
   "activationCommands": {
     "atom-workspace": "no-progress-printer:print"
   },
-  "repository": "https://github.com/atom/no-progress-printer",
+  "repository": "https://github.com/akiyoshiaki/no-progress-printer",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
