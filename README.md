@@ -4,4 +4,4 @@
 
 `ctrl-alt-n`
 
-![screenshot](https://github.com/akiyoshiaki/no-progress-printer/noprogress.gif)
+![screenshot](https://github.com/akiyoshiaki/no-progress-printer/blob/master/noprogress.gif)
