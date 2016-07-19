@@ -1,7 +1,9 @@
 # no-progress-printer package
 
+This package should help you when you don't have any progress.
+
 ## Usage
 
-`ctrl-alt-n`
+Just `ctrl-alt-n`
 
-![screenshot](https://github.com/akiyoshiaki/no-progress-printer/blob/master/noprogress.gif)
+![screenshot](https://github.com/akiyoshiaki/no-progress-printer/blob/master/noprogress.gif?raw=true)
